@@ -1,3 +1,4 @@
 #CSS GLASS EFFECT
 
-Simple CSS Effect built with HTML,CSS and JAVASCRIPT
+Simple CSS Glass Effect built with HTML and CSS.
+JavaScript adds draggable function. 
