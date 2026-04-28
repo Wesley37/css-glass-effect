@@ -23,7 +23,7 @@ body {
   min-height: 100vh;
 }
 
-.container {
+#card {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
